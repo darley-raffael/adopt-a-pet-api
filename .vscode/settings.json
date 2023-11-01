@@ -1,0 +1,18 @@
+{
+  "material-icon-theme.files.associations": {
+    "routes.ts": "routing"
+  },
+  "material-icon-theme.folders.associations": {
+    "adapters": "pipe",
+    "external": "tools",
+    "user": "admin",
+    "memory": "database",
+    "repository": "queue",
+    "migrations": "upload",
+    "in_memory": "log",
+    "http": "api",
+    "use_cases": "rules",
+    "repositories": "queue"
+  },
+  "cSpell.words": ["elysia"]
+}
