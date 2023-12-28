@@ -4,7 +4,7 @@
 
 ## Regras
 
-> [!INFO]
+> [!NOTE]
 > ⚠️ Como dissemos anteriormente, **não** vamos mais informar detalhadamente rotas e propriedades dos registros a serem criadas, mas sim, as regras e requisitos que a API deve ter.
 > O motivo disso é para vocês **também** exercitarem o desenvolvimento e a estruturação dessa parte.
 
