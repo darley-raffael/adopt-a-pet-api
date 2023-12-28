@@ -1,6 +1,7 @@
 import Elysia from "elysia";
-import { petRoutes } from "./http/controllers/routes";
+import { petRoutes } from "./controllers/routes";
 
 export const app = new Elysia();
 
-petRoutes(app);
+app.use(petRoutes);
+
